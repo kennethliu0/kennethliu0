@@ -10,7 +10,7 @@ const kenneth  = {
   languages: [JavaScript, TypeScript, Python, C#, SQL, Java, C++, HTML, CSS],
   tools: [React, Next, Node, .NET, Express, Git, VS Code, PostgreSQL],
   music: ["R&B", "Pop", "K-Pop"]
-}
+};
 ```
 
 ### What I'm working on
