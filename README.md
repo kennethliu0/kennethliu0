@@ -15,7 +15,6 @@ const kenneth  = {
 
 ### What I'm working on
 - SWE @ Stealth AI Startup
-- 2026 SemEval Task 8: Multi-Turn RAG [[link](https://github.com/IBM/mt-rag-benchmark)]
 
 ### Selected Projects
 - Decanter [[link](https://github.com/kennethliu0/decanter)]
