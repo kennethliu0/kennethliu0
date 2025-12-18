@@ -1,4 +1,4 @@
-<img alt="Banner" src="/Profile_Banner.png" width="100%" usemap="image-map"/>
+<img alt="Banner" src="/Profile_Banner.png" width="100%"/>
 
 ## Hi, I'm Kenneth 👋
 
