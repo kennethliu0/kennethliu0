@@ -1,11 +1,5 @@
 <img alt="Banner" src="/Profile_Banner.png" width="100%" usemap="image-map"/>
 
-<map name="image-map">
-    <area target="_blank" alt="LinkedIn" title="LinkedIn" href="https://linkedin.com/in/kennethhliu" coords="993,166,1291,235" shape="rect">
-    <area target="_blank" alt="Email" title="Email" href="mailto:liu.h.kenneth@gmail.com" coords="990,249,1490,316" shape="rect">
-    <area target="_blank" alt="Portfolio Site" title="Portfolio Site" href="https://kennethliu.me" coords="991,332,1309,394" shape="rect">
-</map>
-
 ## Hi, I'm Kenneth 👋
 
 ```javascript
