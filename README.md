@@ -13,9 +13,6 @@ const kenneth  = {
 };
 ```
 
-### What I'm working on
-- SWE @ Stealth AI Startup
-
 ### Selected Projects
 - Decanter [[link](https://github.com/kennethliu0/decanter)]
   - Volunteer management platform for Science Olympiad tournaments
